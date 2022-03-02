@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+/*
+Game initiation - displaying menu
+ */
 public class GameStart {
     public static void gameStart() {
         Scanner scanner = new Scanner(System.in);

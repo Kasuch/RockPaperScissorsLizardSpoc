@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+/*
+Class responsible for identifying user action
+It will display list of available hand shapes
+and ask user to select one
+ */
 public class UserAction {
     public static int userAction() {
         Scanner scanner = new Scanner(System.in);

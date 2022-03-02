@@ -1,3 +1,6 @@
+/*
+Enum that will allow user to select one of possible options of hand shape
+ */
 public enum HandShape {
     ROCK(1),
     PAPER(2),
